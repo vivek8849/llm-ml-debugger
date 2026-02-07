@@ -1,6 +1,6 @@
 # 🧠 Cost-Aware ML Evaluation & Debugging Platform with LLM Reasoning
 ![Repo Size](https://img.shields.io/github/languages/code-size/vivek8849/llm-ml-debugger)
-![License](https://img.shields.io/github/license/vivek8849/llm-ml-debugger)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/vivek8849/llm-ml-debugger)
 
 A **production-style machine learning platform** that evaluates models using
@@ -156,4 +156,5 @@ docker compose up --build
 - Experiment tracking
 - Cost-sensitive model tuning
 - Model versioning
+
 
